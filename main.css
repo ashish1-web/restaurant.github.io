@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.body_section{
+    height:85vh;
+    background-image: linear-gradient(to right , rgba(0,0,0,.5) , rgba(0,0,0,.7)) , url(download.jfif);
+}
+
+.form-control:focus,.form-control:hover,.form-control:active{
+    border:orangered;
+    outline:none;
+}
+
